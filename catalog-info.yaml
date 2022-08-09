@@ -14,4 +14,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: mambg-tmm-team
+  owner: local-team
