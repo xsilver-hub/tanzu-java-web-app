@@ -1,4 +1,4 @@
-# tanzu-java-web-app version 0.12
+# tanzu-java-web-app version 0.13
 
 This is a sample of a Java Spring app that works with Tilt and the Tanzu Application Platform.
 
